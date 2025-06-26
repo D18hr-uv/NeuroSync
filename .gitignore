@@ -1,0 +1,16 @@
+# Frontend
+neurosync-frontend/node_modules/
+neurosync-frontend/dist/
+neurosync-frontend/.env
+
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
