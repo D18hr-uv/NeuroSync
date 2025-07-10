@@ -1,2 +1,0 @@
-# NeuroSync
-Still Cooking
